@@ -37,9 +37,6 @@ minecraft:deepslate
 minecraft:deepslate_bricks
 minecraft:polished_deepslate
 minecraft:bricks
-minecraft:chiseled_resin_bricks
-minecraft:chiseled_stone_bricks
-minecraft:chiseled_tuff_bricks
 minecraft:cracked_deepslate_bricks
 minecraft:cracked_stone_bricks
 minecraft:deepslate_bricks
@@ -51,7 +48,6 @@ minecraft:black_terracotta
 minecraft:brown_terracotta
 minecraft:cyan_terracotta
 minecraft:gray_terracotta
-minecraft:light_blue_terracotta
 minecraft:light_gray_terracotta
 minecraft:magenta_terracotta
 minecraft:orange_terracotta
